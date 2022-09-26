@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvo254&show_icons=true&theme=codeSTACKr)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvo254&theme=dark)](https://git.io/streak-stats)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
