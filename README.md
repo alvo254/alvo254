@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alvo254
+- 👋 Hi, I’m Alvin Ndungu
 - 👀 I’m interested in rust programming, aws, and devops 
 - 🌱 I’m currently learning rust programming.
 - 💞️ I’m looking to collaborate on any interesting projects.
