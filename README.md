@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alvin Ndungu
-- 👀 I’m interested in rust programming, aws, and devops 
-- 🌱 I’m currently learning rust programming.
+- 👀 I’m interested in rust,go and python programming, aws, multi-cloud and devops 
+- 🌱 I’m currently learning go programming.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me email alvinkhamron@gmail.com
 
