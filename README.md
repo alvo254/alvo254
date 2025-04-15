@@ -18,9 +18,8 @@
 
 ### 📚 Currently Exploring
 
-- 🔬 Kubernetes security and observability (Kyverno, Datadog, Cilium)
-- 🦀 Deeper Rust systems programming
-- 🧪 Building a Killercoda-like lab for the Nairobi DevOps Community using Go
+- 🔬 Kubernetes security and observability (Kyverno, Datadog, Cilium, splunk)
+- 🧪 Building more real world projects
 
 ---
 
